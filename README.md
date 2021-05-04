@@ -1,12 +1,12 @@
 # Jungle
 
-A mini e-commerce application built with Rails 4.2 for purposes of teaching Rails by example.
+A mini e-commerce application built with Rails 4.2 
 
 ## Screenshots
 
-!["Screenshot of Products Page + Product Detail"]()
-!["Screenshot of Product Purchase"]()
-!["Screenshot of Admin Login Page"]()
+!["Screenshot of Products Page + Product Detail"](https://github.com/lukebergmann/jungle/blob/master/docs/ProductDetail.gif?raw=true)
+!["Screenshot of Product Purchase"](https://github.com/lukebergmann/jungle/blob/master/docs/ProductPurchase.gif?raw=true)
+!["Screenshot of Admin Login Page"](https://github.com/lukebergmann/jungle/blob/master/docs/AdminLogin.gif?raw=true)
 
 ## Additional Steps for Apple M1 Machines
 
